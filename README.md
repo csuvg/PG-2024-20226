@@ -48,8 +48,8 @@ python src/API.py
 
 ## Demostración
 El siguiente video muestra el funcionamiento del reconocimiento de LENSEGUA en tiempo real:
-[Demostración de Señas Chapinas](demo/demo.mp4)
+[Demostración](demo/demo.mp4)
 
 ## Informe 
 El informe del proyecto se encuentra disponible en el siguiente enlace:
-[Informe de Señas Chapinas](docs/informe.pdf)
+[Informe](docs/informe.pdf)
