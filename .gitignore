@@ -1,0 +1,7 @@
+videos
+.DS_Store
+data/trainingData.pkl
+Data/LENSEGUA_RAW.pkl
+Data/processedData.pkl
+/venv
+*.pyc
