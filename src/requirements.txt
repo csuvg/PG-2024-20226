@@ -1,0 +1,10 @@
+Pandas
+Numpy
+Tensorflow
+OpenCV
+TQDM
+Matplotlib
+MediaPipe
+SKLearn
+UMAP
+MoviePy
